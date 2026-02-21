@@ -3,3 +3,8 @@ hyprlock
 hypridle
 swww
 hyprpolkitagent
+kitty
+quickshell
+zen-browser
+catnap
+fastfetch
